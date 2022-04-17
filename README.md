@@ -1,3 +1,1 @@
-<html>
-  <a href="fancifymytext.html">Fancify Text</a>
-</html>
+<a href="fancifymytext.html">Fancify Text</a>
