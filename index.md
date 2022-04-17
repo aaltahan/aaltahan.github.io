@@ -1,4 +1,3 @@
-
   <body>
 	<h1>Cat Facts</h1>
     <p>Cats are believed to be the only mammals who don’t taste sweetness.<br>
