@@ -1,8 +1,4 @@
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Cat Facts</title>
-  </head>
+
   <body>
 	<h1>Cat Facts</h1>
     <p>Cats are believed to be the only mammals who don’t taste sweetness.<br>
@@ -15,6 +11,5 @@
 	<img src="https://icatcare.org/app/uploads/2018/07/Helping-your-new-cat-or-kitten-settle-in-1.png"></a>
 	</p>
   </body>
-</html>
 
 <a href="fancifymytext.html">Fancify Text</a>
